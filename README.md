@@ -6,7 +6,7 @@ Proyek ini bertujuan untuk mempelajari model Natural Language Processing (NLP) s
 - **Negatif**  
 - **Positif**  
 
-Probabilitas dihitung dalam rentang \( 0 \leq p(x) \leq 1 \), dan kelas dengan probabilitas terbesar akan menjadi prediksi sentimen dari komentar/review tersebut.
+Probabilitas dihitung dalam rentang 0 sampai 1, dan kelas dengan probabilitas terbesar akan menjadi prediksi sentimen dari komentar/review tersebut.
 
 ---
 
